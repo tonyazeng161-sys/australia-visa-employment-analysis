@@ -1,0 +1,11 @@
+state_code,state,visa_group,applicant_status,industry,sex,has_suppressed_value,has_nil_or_rounded_zero,year,jobs,median_income_per_job
+0,Australia,Temporary Graduate,Total,Total,Persons,False,False,2018-19,152465.0,12830.0
+0,Australia,Temporary Graduate,Total,Total,Persons,False,False,2019-20,175222.0,13352.0
+0,Australia,Temporary Graduate,Total,Total,Persons,False,False,2020-21,182695.0,13114.0
+0,Australia,Temporary Graduate,Total,Total,Persons,False,False,2021-22,190162.0,13654.0
+0,Australia,Temporary Graduate,Total,Total,Persons,False,False,2022-23,355883.0,15505.0
+0,Australia,Temporary Student,Total,Total,Persons,False,False,2018-19,476081.0,6753.0
+0,Australia,Temporary Student,Total,Total,Persons,False,False,2019-20,571204.0,7173.0
+0,Australia,Temporary Student,Total,Total,Persons,False,False,2020-21,521604.0,8141.0
+0,Australia,Temporary Student,Total,Total,Persons,False,False,2021-22,489335.0,6925.0
+0,Australia,Temporary Student,Total,Total,Persons,False,False,2022-23,749847.0,6752.0
